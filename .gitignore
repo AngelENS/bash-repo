@@ -1,3 +1,4 @@
+*.txt
 # Proyecto de desarrollo web
 # Descartar archivos de caché
 node_modules/
@@ -8,7 +9,6 @@ npm-debug.log
 Thumbs.db
 *.swp
 *~
-*.txt
 
 # Descartar archivos de configuración local
 config.local.js
