@@ -1,0 +1,15 @@
+#*.txt
+# Proyecto de desarrollo web
+# Descartar archivos de caché
+node_modules/
+npm-debug.log
+
+# Descartar archivos temporales
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Descartar archivos de configuración local
+config.local.js
+database.local.yml
